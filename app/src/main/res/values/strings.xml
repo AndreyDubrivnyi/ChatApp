@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="sendButton">Send</string>
+    <string name="hIntMassage">Massage</string>
+    <string name="signInButt">Google sign in</string>
+    <string name="signOut">Sign out</string>
+</resources>
